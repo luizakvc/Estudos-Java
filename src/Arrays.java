@@ -45,5 +45,19 @@ public class Arrays {
         // *** Condição Ternária
         String mensagem = (media < 7) ? " Você está reprovado " : "Você está aprovado"; // Faz o papel do if
         System.out.println(mensagem);
+
+        // *** Default values   --> da o valor 0 como padrão
+        int numero; // = 0
+        double nota2; // = 0
+        long populacao; // = 0
+        boolean teste; // = false
+        String nome; // null -> ausência de objeto na variável
+
+
+        // *** Wrapper classes - classe invólucra
+        Integer numero2 = 1;
+        Double nota3 = 1.0;
+        Long pop2 = 1L;
+        Boolean teste2 = false;
     }
 }
