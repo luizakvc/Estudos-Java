@@ -1,3 +1,5 @@
+package Aulas.EstudandoJava.EstudandoJava.EstudandoJava.src;
+
 public class Variáveis {
     // Esse método é a execução do código JAVA
     public static void main(String[] args) {

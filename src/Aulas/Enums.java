@@ -1,4 +1,4 @@
-// ******* Enums são estruturas com constantes definidas -> dias da semana, meses, turnos do dia, estações
+package Aulas;// ******* Aulas.Enums são estruturas com constantes definidas -> dias da semana, meses, turnos do dia, estações
 
 public class Enums {
     public static void main(String[] args) {
